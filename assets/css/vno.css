@@ -59,16 +59,16 @@ body {
   -webkit-font-smoothing: antialiased; }
 
 ::selection {
-  background: #f39ca4; }
+  background: #d2e9d7; }
 
 ::-moz-selection {
-  background: #f39ca4; }
+  background: #d2e9d7; }
 
 a {
   text-decoration: none;
-  color: #BF1827; }
+  color: #57ad68; }
   a:hover {
-    color: #7b0f19;
+    color: #3c7b49;
     -o-transition: .5s;
     -ms-transition: .5s;
     -moz-transition: .5s;
@@ -184,7 +184,7 @@ pre {
     .time a:hover,
     .author a:hover,
     .tags a:hover {
-      color: #7b0f19; }
+      color: #3c7b49; }
 
 .excerpt {
   margin: 0;
@@ -214,7 +214,7 @@ pre {
   position: relative;
   display: inline-block;
   padding: 8px 18px 9px 18px;
-  background: #BF1827;
+  background: #57ad68;
   border-radius: 3px;
   text-align: center;
   color: #FFF; }
@@ -248,7 +248,7 @@ pre {
     color: #a6a6a6;
     text-decoration: underline; }
     .footer__copyright a:hover {
-      color: #7b0f19; }
+      color: #3c7b49; }
 
 .avatar,
 .logo {
@@ -415,9 +415,9 @@ hr {
   background-image: linear-gradient(140deg,rgba(37, 104, 163, 0.6) 20%, rgba(18, 51, 80, 0.8)); }
 
 .cover-green {
-  background-color: rgba(21, 111, 120, 0.6);
-  background-image: -webkit-linear-gradient(-410deg, rgba(21, 111, 120, 0.6) 20%, rgba(6, 31, 33, 0.8));
-  background-image: linear-gradient(140deg,rgba(21, 111, 120, 0.6) 20%, rgba(6, 31, 33, 0.8)); }
+  background-color: rgba(87, 173, 104, 0.6);
+  background-image: -webkit-linear-gradient(-410deg, rgba(87, 173, 104, 0.6) 20%, rgba(52, 106, 63, 0.8));
+  background-image: linear-gradient(140deg,rgba(87, 173, 104, 0.6) 20%, rgba(52, 106, 63, 0.8)); }
 
 .cover-purple {
   background-color: rgba(73, 50, 82, 0.6);
@@ -444,23 +444,23 @@ hr {
 
 .btn, .navigation__item a {
   padding: 10px 20px;
-  border: 1px solid #e95461;
+  border: 1px solid #9ccea6;
   border-radius: 20px;
   font-size: .9em;
   font-weight: bold;
   letter-spacing: 1px;
   text-shadow: none;
-  color: #e95461;
+  color: #9ccea6;
   -webkit-font-smoothing: antialiased; }
   .btn:hover, .navigation__item a:hover {
-    color: #7b0f19;
-    border-color: #7b0f19; }
+    color: #3c7b49;
+    border-color: #3c7b49; }
 
 .btn-border-small {
-  border: 1px solid #BF1827;
-  border-radius: 20px;
-  padding: 6px 8px;
-  font-size: .8em;
+  border: 1px solid #57ad68;
+  border-radius: 15px;
+  padding: 4px 6px;
+  font-size: .6em;
   margin-left: 10px; }
 
 .btn-secondary {
@@ -587,7 +587,7 @@ i {
   .post-list__post-title a {
     color: #333333; }
     .post-list__post-title a:hover {
-      color: #7b0f19; }
+      color: #3c7b49; }
 
 .post-list__meta {
   display: block;
