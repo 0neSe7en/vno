@@ -444,13 +444,13 @@ hr {
 
 .btn, .navigation__item a {
   padding: 10px 20px;
-  border: 1px solid #BF1827;
+  border: 1px solid #e95461;
   border-radius: 20px;
   font-size: .9em;
   font-weight: bold;
   letter-spacing: 1px;
   text-shadow: none;
-  color: #BF1827;
+  color: #e95461;
   -webkit-font-smoothing: antialiased; }
   .btn:hover, .navigation__item a:hover {
     color: #7b0f19;
